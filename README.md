@@ -4,11 +4,15 @@ This project is a complete end-to-end data analysis of pizza sales for a fiction
 
 📊 Objective
 To analyze pizza sales data and identify key performance metrics, trends, and opportunities that can help improve business decision-making.
-Key Business Questions Answered
+Key Business Questions Answered-
 What are the peak hours and best-performing days for sales?
+
 Which pizzas generate the most revenue?
+
 What is the average order value?
+
 How do different pizza sizes and categories perform?
+
 What are the top-selling pizzas?
 
 📈 Sample Insights
